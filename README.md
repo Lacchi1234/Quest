@@ -1,2 +1,2 @@
-# Quest
-where i learnt it all
+# QuestQuiz
+a simple react application for quiz
